@@ -3,7 +3,7 @@ iOS 과제 프로젝트 모음
 
 # 📌 레포 설명
 - 각 프로젝트의 README.md 에 프로젝트 설명과 UI 사진, 실행 영상이 들어있습니다. 참고해주세요 :)
-- 프로젝트를 시작한 날짜 순서대로 작성되었습니다. 하지만 프로젝트를 끝난 시점은 순서오 다를 수 있습니다.
+- 프로젝트를 '시작한' 날짜 순서대로 작성되었습니다. 하지만 프로젝트를 끝난 시점은 순서와 다를 수 있습니다.
 - 아래의 테이블에 주어지 과제 목록과 완료 여부를 표시를 진행됨에 따라 업데이트할 예정입니다.
 
 # 📌 과제 목록
@@ -20,3 +20,5 @@ iOS 과제 프로젝트 모음
 | ✅ |10/12|TableViewPractice|UITableView|테이블뷰 구성을 연습해봅니다.|
 | ✅ |10/13|[CurrencyExchanger](https://github.com/keenkim1202/SSAC_7_CurrencyExchanger)|Struct, Property Observer, Computed Property|주어진 환율에 따라 원 -> 달러, 달러 -> 원 으로 환산하여 출력합니다.|
 | ~ing |10/13|[ShoppingList](https://github.com/keenkim1202/SSAC_7_ShoppingList)|Struct, Property Observer, UserDefaults, UITableView, Extension|쇼핑 목록을 추가하고 삭제할 수 있습니다.|
+| ~ing |10/17|[RecommandTrendMedia](https://github.com/keenkim1202/SSAC_8_RecommandTrendMedia)|UITableView, UICollectionView, MKMapView, WKWebView, Extension|trendy한 영화, 도서, 드라마 목록(제목, 출연진, 별점, 줄거리 등)을 보여주고, 검색할 수 있습니다. 또한 상영관의 위치를 확인할 수 있습니다.|
+| ~ing |10/25|[WeatherReport](https://github.com/keenkim1202/SSAC_9_WeatherReport)|openWeatherAPI, Alamofire, swiftyJson|API를 사용하여 사용자의 위치으 날씨정보를 보여줍니다.|
