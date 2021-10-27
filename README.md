@@ -21,4 +21,4 @@ iOS 과제 프로젝트 모음
 | ✅ |10/13|[CurrencyExchanger](https://github.com/keenkim1202/SSAC_7_CurrencyExchanger)|Struct, Property Observer, Computed Property|주어진 환율에 따라 원 -> 달러, 달러 -> 원 으로 환산하여 출력합니다.|
 | ✅ |10/13|[ShoppingList](https://github.com/keenkim1202/SSAC_7_ShoppingList)|Struct, Property Observer, UserDefaults, UITableView, Extension|쇼핑 목록을 추가하고 삭제할 수 있습니다.|
 | ~ing |10/17|[RecommandTrendMedia](https://github.com/keenkim1202/SSAC_8_RecommandTrendMedia)|UITableView, UICollectionView, MKMapView, WKWebView, Extension|trendy한 영화, 도서, 드라마 목록(제목, 출연진, 별점, 줄거리 등)을 보여주고, 검색할 수 있습니다. 또한 상영관의 위치를 확인할 수 있습니다.|
-| ~ing |10/25|[WeatherReport](https://github.com/keenkim1202/SSAC_9_WeatherReport)|openWeatherAPI, Alamofire, swiftyJson|API를 사용하여 사용자의 위치으 날씨정보를 보여줍니다.|
+| ✅ |10/25|[WeatherReport](https://github.com/keenkim1202/SSAC_9_WeatherReport)|openWeatherAPI, Alamofire, swiftyJson, Extension|API를 사용하여 사용자의 위치의 날씨정보를 보여줍니다.|
