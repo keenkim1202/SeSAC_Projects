@@ -15,7 +15,7 @@ iOS 과제 프로젝트 모음
 | ✅ |10/1|[NeologismApp](https://github.com/keenkim1202/SSAC_2_NeologismApp)|AutoLayout, Dictionary, StackView|신조어를 검색하는 앱입니다. '검색' 버튼을 누르면 textField 아래에 4가지 추천어 태그가 랜덤으로 뜹니다.|
 | ~ing |10/5|[BaeMinApp](https://github.com/keenkim1202/SSAC_1_BaeMinApp)|AutoLayout, TapBar, NavigationBar|배달의 민족 앱처럼 하단에 tapBar를 추가하여 완성해봅니다.|
 | ✅ |10/6|[EmotionDiary](https://github.com/keenkim1202/SSAC_3_EmotionDiary)|AutoLayout, UserDefaults, StackView|9개의 감정버튼을 눌러 자신의 감정을 기록합니다.|
-| ~ing |10/7|[AnniversaryCalc](https://github.com/keenkim1202/SSAC_4_AnniversaryClac)|AutoLayout, DatePicker, DateFormatter|기념일을 지정하고, 지정된 기념일로 부터 며칠이 남았는지, 며칠이 지났는지 보여줍니다.|
+| ✅ |10/7|[AnniversaryCalc](https://github.com/keenkim1202/SSAC_4_AnniversaryClac)|AutoLayout, DatePicker, DateFormatter|기념일을 지정하고, 지정된 기념일로 부터 며칠이 남았는지, 며칠이 지났는지 보여줍니다.|
 | ✅ |10/8|[LetsDrink](https://github.com/keenkim1202/SSAC_5_LetsDrinkWater)|UIAlert, UITableView, UserDefaults|키와 몸무게에 따른 하루 물 섭취 권장량을 계산하여 제시하고, 마신 물의 양을 기록합니다.|
 | ✅ |10/12|TableViewPractice|UITableView|테이블뷰 구성을 연습해봅니다.|
 | ✅ |10/13|[CurrencyExchanger](https://github.com/keenkim1202/SSAC_7_CurrencyExchanger)|Struct, Property Observer, Computed Property|주어진 환율에 따라 원 -> 달러, 달러 -> 원 으로 환산하여 출력합니다.|
