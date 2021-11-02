@@ -22,9 +22,10 @@ iOS 과제 프로젝트 모음
 | ✅ |10/13|[ShoppingList](https://github.com/keenkim1202/SSAC_7_ShoppingList)|Struct, Property Observer, UserDefaults, UITableView, Extension|쇼핑 목록을 추가하고 삭제할 수 있습니다.|
 | ✅ |10/17|[RecommandTrendMedia](https://github.com/keenkim1202/SSAC_8_RecommandTrendMedia)|UITableView, UICollectionView, MKMapView, WKWebView, Extension|trendy한 영화, 도서, 드라마 목록(제목, 출연진, 별점, 줄거리 등)을 보여주고, 검색할 수 있습니다. 또한 상영관의 위치를 확인할 수 있습니다.|
 | ✅ |10/19|[WeatherReport](https://github.com/keenkim1202/SSAC_9_WeatherReport)|openWeatherAPI, Alamofire, swiftyJson, Extension|API를 사용하여 사용자의 위치의 날씨정보를 보여줍니다.|
-| ✅ |10/19|[LotteryNumber](https://github.com/keenkim1202/SSAC_9_LotteryNumber)|dhLotteryAPI, Alamofire, swiftyJson, Extension|API를 사용하여 회차별 로또 당첨 번호 정보를 보여줍니다.|
+| ✅ |10/19|[LotteryNumber](https://github.com/keenkim1202/SSAC_9_LotteryNumber)|dhLotteryAPI, Alamofire, swiftyJson, UserDefaults, Extension|API를 사용하여 회차별 로또 당첨 번호 정보를 보여줍니다.|
 | ✅ |10/20|[RecommandTrendMedia](https://github.com/keenkim1202/SSAC_8_RecommandTrendMedia)| + MapView, MapKit |주변 상영관 정보를 불러와 지도상에서 확인할 수 있습니다.|
 | ✅ |10/25|[FilmCouncilBoxOfficeInfo](https://github.com/keenkim1202/SSAC_9_FilmConcilBoxOfficeInfo)|KoreanFilmConcilAPI, Alamofire, swiftyJson, Extension|API를 사용하여 어제 날짜 기준 일간 박스오피스 정보를 보여줍니다.|
-| ✅ |10/27|[Kakao OCR](https://github.com/keenkim1202/SSAC_10_KAKAO_OCR)|Kakao OCRAPI, Alamofire, swiftyJson, Extension|Kakao OCR API를 사용하여 이미지에서 검출되는 텍스트 정보를 보여줍니다.|
+| ✅ |10/27|[Kakao OCR](https://github.com/keenkim1202/SSAC_10_KAKAO_OCR)|Kakao Vision API, Alamofire, swiftyJson, Extension|Kakao Vision API의 OCR을 사용하여 이미지에서 검출되는 텍스트 정보를 보여줍니다.|
 | ~ing |10/27|[RecommandTrendMedia](https://github.com/keenkim1202/SSAC_8_RecommandTrendMedia)| + TMDB API |TMDP API를 사용하여 프로젝트 첫 화면에 daily/weekly 트렌드 정보를 보여줍니다.|
 | ~ing |11/1|[MyDiaryCalendar](https://github.com/keenkim1202/SSAC_11_MyDiaryCalendar)| Localization |이미지, 날짜, 제목, 내용이 포함된 일기를 작성하고 켈린더에 날짜별 일기 정보를 보여주고 확인할 수 있습니다.|
+| ✅ |11/3|[LotteryNumber](https://github.com/keenkim1202/SSAC_9_LotteryNumber)| + 오늘자 가장 최신회차 정보 가져오기 |오늘자 가장 최신 회차 정보를 가져와 앱 실행 시 그 회차 로또 번호르 보여줍니다.|
