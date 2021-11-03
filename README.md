@@ -27,5 +27,8 @@ iOS 과제 프로젝트 모음
 | ✅ |10/25|[FilmCouncilBoxOfficeInfo](https://github.com/keenkim1202/SSAC_9_FilmConcilBoxOfficeInfo)|KoreanFilmConcilAPI, Alamofire, swiftyJson, Extension|API를 사용하여 어제 날짜 기준 일간 박스오피스 정보를 보여줍니다.|
 | ✅ |10/27|[Kakao OCR](https://github.com/keenkim1202/SSAC_10_KAKAO_OCR)|Kakao Vision API, Alamofire, swiftyJson, Extension|Kakao Vision API의 OCR을 사용하여 이미지에서 검출되는 텍스트 정보를 보여줍니다.|
 | ~ing |10/27|[RecommandTrendMedia](https://github.com/keenkim1202/SSAC_8_RecommandTrendMedia)| + TMDB API |TMDP API를 사용하여 프로젝트 첫 화면에 daily/weekly 트렌드 정보를 보여줍니다.|
-| ~ing |11/1|[MyDiaryCalendar](https://github.com/keenkim1202/SSAC_11_MyDiaryCalendar)| Localization |이미지, 날짜, 제목, 내용이 포함된 일기를 작성하고 켈린더에 날짜별 일기 정보를 보여주고 확인할 수 있습니다.|
-| ✅ |11/3|[LotteryNumber](https://github.com/keenkim1202/SSAC_9_LotteryNumber)| + 오늘자 가장 최신회차 정보 가져오기 |오늘자 가장 최신 회차 정보를 가져와 앱 실행 시 그 회차 로또 번호르 보여줍니다.|
+| ~ing |11/1|[MyDiaryCalendar](https://github.com/keenkim1202/SSAC_11_MyDiaryCalendar)| Localization, FileManager |이미지, 날짜, 제목, 내용이 포함된 일기를 작성하고 켈린더에 날짜별 일기 정보를 보여주고 확인할 수 있습니다.|
+| ✅ |11/2|[LotteryNumber](https://github.com/keenkim1202/SSAC_9_LotteryNumber)| + 오늘자 가장 최신회차 정보 가져오기 |오늘자 가장 최신 회차 정보를 가져와 앱 실행 시 그 회차 로또 번호르 보여줍니다.|
+| ✅ |11/2|[ShoppingList](https://github.com/keenkim1202/SSAC_7_ShoppingList)| + Realm |쇼핑 목록을 realm에 저장합니다.|
+| ✅ |11/2|[FilmCouncilBoxOfficeInfo](https://github.com/keenkim1202/SSAC_9_FilmConcilBoxOfficeInfo)| + Realm |realm에 fetch한적있는 boxOffice정보를 저장합니다. 호출했던 정보는 realm에서 불러오고, 아니 정보는 api를 호출하여 가져옵니다.|
+
