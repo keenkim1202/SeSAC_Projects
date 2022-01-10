@@ -31,4 +31,6 @@ iOS 과제 프로젝트 모음
 | ✅ |11/2|[LotteryNumber](https://github.com/keenkim1202/SSAC_9_LotteryNumber)| + 오늘자 가장 최신회차 정보 가져오기 |오늘자 가장 최신 회차 정보를 가져와 앱 실행 시 그 회차 로또 번호르 보여줍니다.|
 | ✅ |11/2|[ShoppingList](https://github.com/keenkim1202/SSAC_7_ShoppingList)| + Realm |쇼핑 목록을 realm에 저장합니다.|
 | ✅ |11/2|[FilmCouncilBoxOfficeInfo](https://github.com/keenkim1202/SSAC_9_FilmConcilBoxOfficeInfo)| + Realm |realm에 fetch한적있는 boxOffice정보를 저장합니다. 호출했던 정보는 realm에서 불러오고, 아니 정보는 api를 호출하여 가져옵니다.|
-
+| ✅ |11/8~12/10|[WhatTheCoffee](https://instagram.com/what.the_coffee?utm_medium=copy_link)| |개인 앱 앱스토어에 출시.|
+| ~ing |12/20|[BeerRecommand](https://github.com/keenkim1202/10_BeerRecommand)| Snapkit, TableView Custom HeaderView |리프레시하 때마다 새로운 랜덤 맥주를 추천합니다.|
+| ~ing |12/30|Sprout Farm| Snapkit, CustomView, URLSession, MVVM, Codable |로그인 후 게시글과 댓글을 작성/수정/삭제할 수 있는 앱입니다.|
