@@ -34,5 +34,5 @@ iOS 과제 프로젝트 모음
 | ✅ |11/8 ~ 12/10|[WhatTheCoffee](https://instagram.com/what.the_coffee?utm_medium=copy_link)| |개인 앱 앱스토어에 출시.|
 | ✅ |12/20|[BeerRecommand](https://github.com/keenkim1202/10_BeerRecommand)| Snapkit, TableView Custom HeaderView |리프레시하 때마다 새로운 랜덤 맥주를 추천합니다.|
 | ✅ |12/30 ~ 1/6|[Sprout Farm](https://github.com/keenkim1202/SproutFARM)| Snapkit, CustomView, URLSession, Codable |로그인 후 게시글과 댓글을 작성/수정/삭제할 수 있는 앱입니다.|
-| ~ing |1/20 ~ ing |Sprout Friends| Snapkit, CustomView, Alamofire, MVVM |위치기반으로 자신의 주변에 공통된 취미를 가진 친구를 찾아 친구요청을 하고 대화를 나눌 수 있습니다.|
+| ✅ |1/20 ~ 2/x |Sprout Friends| Snapkit, CustomView, Alamofire, MVVM |위치기반으로 자신의 주변에 공통된 취미를 가진 친구를 찾아 친구요청을 하고 대화를 나눌 수 있습니다.|
 
